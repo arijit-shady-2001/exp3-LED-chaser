@@ -1,4 +1,4 @@
-# exp3-LED-chaser
+# exp3-dual-LED-chaser
 Simple code to make a LED chaser
 
 int i;
